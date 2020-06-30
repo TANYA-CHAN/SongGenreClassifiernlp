@@ -35,5 +35,5 @@ PROJECT DONE BY KRITIKA IYER, SRIRAKSHA BHAT & TANYA CHANCHALANI.
 # CODE
 <br>
 
-A detailed report on the same can be found <a href="https://github.com/TANYA-CHAN/SongGenreClassifiernlp/blob/master/SongGenreClassifier.ipynb">here</a>
+The code can be found <a href="https://github.com/TANYA-CHAN/SongGenreClassifiernlp/blob/master/SongGenreClassifier.ipynb">here</a>
 
