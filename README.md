@@ -32,8 +32,8 @@ PROJECT DONE BY KRITIKA IYER, SRIRAKSHA BHAT & TANYA CHANCHALANI.
 6) Basic building block for more sophisticated music genre predication systems
 7) Applications include music retrieval and recommendation
 
-#CODE
+# CODE
 <br>
 
-A detailed report on the same can be found<a href="https://github.com/TANYA-CHAN/SongGenreClassifiernlp/blob/master/SongGenreClassifier.ipynb">here</a>
+A detailed report on the same can be found <a href="https://github.com/TANYA-CHAN/SongGenreClassifiernlp/blob/master/SongGenreClassifier.ipynb">here</a>
 
