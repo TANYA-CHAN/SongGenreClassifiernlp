@@ -1,7 +1,4 @@
 # Song-Genre-Classifier
-
-PROJECT DONE BY TANYA CHANCHALANI, SRIRAKSHA BHAT & KRITIKA IYER.
-
 # ABOUT 
 <br>
 
