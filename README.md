@@ -2,7 +2,7 @@
 # ABOUT 
 <br>
 
-1) Our project aims to identify which genre a song belongs to on the basis of its lyrics
+1) This project aims to identify which genre a song belongs to on the basis of its lyrics
 2) The dataset contains 62155 songs
 3) Each song is classified into 5 genres- Country, Rock, Hip-Hop, Pop and Rhythm and Blues
 4) Two major text classification method were tested- Logistic Regression and Naïve Bayes
